@@ -1,1 +1,1 @@
-project link = https://hottelbooking.netlify.app/
+ https://hottelbooking.netlify.app/
